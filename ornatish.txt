@@ -1,0 +1,7 @@
+npm init react-app my-app
+cd my-app
+npm start
+
+
+npm init react-app .
+qilsak shu papkani oziga yuklab beradi yani yangi papka ochmaydi
